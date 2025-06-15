@@ -1,4 +1,14 @@
 # Todo CLI App
+this is a simple todo list CLI app written in rust, that can handle view, add, remove, and mark as done.
+
+
+## Crate Needed
+- Chrono
+- Serde
+- Serde_Json
+- Tabled
+- Owo-Colors
+- Clap
 
 ```bash
 ./todo_cli --help
